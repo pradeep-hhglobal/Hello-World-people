@@ -1,4 +1,4 @@
 {
   "name": "Pradeep",
-  "Tech": "Mulesoft"
+  "Tech": "Python"
 }
